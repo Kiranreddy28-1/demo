@@ -8,5 +8,5 @@ To run the code useatom editor or visual studio code, then cd into the location 
 terraform init
 terraform plan
 terraform apply
-After the work on the environment is done and you no longer need the application, ypou can destroy the environment by the below command:
+After the work on the environment is done and you no longer need the application, you can destroy the environment by the below command:
 terraform destroy
